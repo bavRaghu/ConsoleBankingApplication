@@ -73,8 +73,8 @@ def change_mailID(user):
 def forgotPW(mail, user):
     try:
         genPIN = random.randint(1000, 9999)
-        sender = 'bubble.bank444@gmail.com'
-        sender_pw = 'ywkk wbfp daaq ooxc'
+        sender = 'bank@example.com'
+        sender_pw = 'google app password'
         receiver = mail
 
         subject = 'Your new ATM PIN. Do not share with anyone.'
