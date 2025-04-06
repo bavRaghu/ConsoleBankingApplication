@@ -1,0 +1,20 @@
+Acc No.,Transaction Type,Amount,Date,Role
+73122,Transfer (Withdraw),500,2025-04-01,Payer
+18748,Transfer (Deposit),500,2025-04-01,Payee
+94458,Withdraw,5000,2025-04-01,Withdrawer
+97670,Transfer (Withdraw),2500,2025-04-01,Payer
+94458,Transfer (Deposit),2500,2025-04-01,Payee
+49212,Withdraw,2000,2025-04-06,Withdrawer
+49212,Deposit,5000,2025-04-06,Depositer
+49212,Transfer (Withdraw),2000,2025-04-06,Payer
+37657,Transfer (Deposit),2000,2025-04-06,Payee
+37657,Withdraw,2000,2025-04-06,Withdrawer
+37657,Deposit,8000,2025-04-06,Depositer
+37657,Transfer (Withdraw),4,2025-04-06,Payer
+49212,Transfer (Deposit),4,2025-04-06,Payee
+37657,Withdraw,-2000,2025-04-06,Withdrawer
+37657,Deposit,+4004,2025-04-06,Depositer
+37657,Transfer (Withdraw),-28,2025-04-06,Payer
+33512,Transfer (Deposit),+28,2025-04-06,Payee
+20731,Transfer (Withdraw),-2000,2025-04-06,Payer
+37657,Transfer (Deposit),2000,2025-04-06,Payee
