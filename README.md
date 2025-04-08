@@ -12,7 +12,7 @@ Bubble Bank is a console-based banking system that lets users create accounts, d
 - Withdrawal / Deposit Funds
 - Transfer Funds Between Accounts
 - Check Balance 
-- Check Daily Interest Gained
+- Check Monthly Interest Gained
 - View Bank Statement
 - Set Transaction Limit
 - User Settings (Change E-Mail ID / PIN)
