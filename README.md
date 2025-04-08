@@ -1,7 +1,7 @@
 
-# Bubble Bank: Console-Based Banking Application
+# Console-Based Banking Application
 
-Bubble Bank is a console-based banking system that lets users create accounts, deposit and withdraw money, check their balance, and transfer funds. It uses PIN-based authentication for security and has a transaction limit to control withdrawals. Built with Python, this project focuses on managing user data securely while keeping everything easy to use.
+This Bank Application is a console-based banking system that lets users create accounts, deposit and withdraw money, check their balance, and transfer funds. It uses PIN-based authentication for security and has a transaction limit to control withdrawals. Built with Python, this project focuses on managing user data securely while keeping everything easy to use.
  
 
 
